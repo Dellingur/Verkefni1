@@ -1,0 +1,13 @@
+#*.defaults*
+
+#*.old
+
+sdkconfig*
+
+.md
+
+build/
+
+.vscode/
+
+.devcontainer/
